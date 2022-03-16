@@ -1,0 +1,17 @@
+c:\users\jorge luis\documents\visual studio 2013\Projects\NCapas\CapaAccesoaDatos\bin\Debug\CapaAccesoaDatos.dll
+c:\users\jorge luis\documents\visual studio 2013\Projects\NCapas\CapaAccesoaDatos\bin\Debug\CapaAccesoaDatos.pdb
+c:\users\jorge luis\documents\visual studio 2013\Projects\NCapas\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.csprojResolveAssemblyReference.cache
+c:\users\jorge luis\documents\visual studio 2013\Projects\NCapas\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.dll
+c:\users\jorge luis\documents\visual studio 2013\Projects\NCapas\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.pdb
+C:\Users\user\Desktop\ramdom\NCapas\CapaAccesoaDatos\bin\Debug\CapaAccesoaDatos.dll
+C:\Users\user\Desktop\ramdom\NCapas\CapaAccesoaDatos\bin\Debug\CapaAccesoaDatos.pdb
+C:\Users\user\Desktop\ramdom\NCapas\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ramdom\NCapas\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ramdom\NCapas\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.dll
+C:\Users\user\Desktop\ramdom\NCapas\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.pdb
+C:\Users\User\Pictures\NCapas\CapaAccesoaDatos\bin\Debug\CapaAccesoaDatos.dll
+C:\Users\User\Pictures\NCapas\CapaAccesoaDatos\bin\Debug\CapaAccesoaDatos.pdb
+C:\Users\User\Pictures\NCapas\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Pictures\NCapas\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\NCapas\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.dll
+C:\Users\User\Pictures\NCapas\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.pdb
